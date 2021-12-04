@@ -1,0 +1,48 @@
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.exe
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.deps.json
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.json
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.dev.json
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.dll
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\bin\Debug\net5.0\ref\TicTacToe.dll
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.pdb
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfo.cs
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.dll
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\obj\Debug\net5.0\ref\TicTacToe.dll
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.pdb
+C:\Users\Meriç BOZKURT\source\repos\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.genruntimeconfig.cache
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.exe
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.deps.json
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.json
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.dev.json
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.dll
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\bin\Debug\net5.0\ref\TicTacToe.dll
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\bin\Debug\net5.0\TicTacToe.pdb
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfo.cs
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.dll
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\obj\Debug\net5.0\ref\TicTacToe.dll
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.pdb
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe\TicTacToe\obj\Debug\net5.0\TicTacToe.genruntimeconfig.cache
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\bin\Debug\net5.0\TicTacToe.exe
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\bin\Debug\net5.0\TicTacToe.deps.json
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.json
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\bin\Debug\net5.0\TicTacToe.runtimeconfig.dev.json
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\bin\Debug\net5.0\TicTacToe.dll
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\bin\Debug\net5.0\ref\TicTacToe.dll
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\bin\Debug\net5.0\TicTacToe.pdb
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\obj\Debug\net5.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\obj\Debug\net5.0\TicTacToe.AssemblyInfo.cs
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\obj\Debug\net5.0\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\obj\Debug\net5.0\TicTacToe.dll
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\obj\Debug\net5.0\ref\TicTacToe.dll
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\obj\Debug\net5.0\TicTacToe.pdb
+C:\Users\Meriç BOZKURT\Desktop\TicTacToe - Kopya\TicTacToe\obj\Debug\net5.0\TicTacToe.genruntimeconfig.cache
